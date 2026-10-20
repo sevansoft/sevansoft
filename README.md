@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm sevansoft
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sevansoft&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+https://github-stats-extended.vercel.app/api?username=sevansoft&include_all_commits=true&theme=dark
 
-![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sevansoft)
+https://github-stats-extended.vercel.app/api/top-langs?username=sevansoft&langs_count=4&theme=dark
 <!--
 **sevansoft/sevansoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
