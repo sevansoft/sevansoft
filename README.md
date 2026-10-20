@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm sevansoft
 
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sevansoft&theme=highcontrast&show_icons=true&count_private=true)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?sevansoft&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sevansoft&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sevansoft)
 <!--
